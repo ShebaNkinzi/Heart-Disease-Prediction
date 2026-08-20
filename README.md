@@ -38,6 +38,3 @@ The project follows a standard data mining pipeline:
 5. **Feature Importance:** Identified the top 3 most critical features influencing heart disease prediction.
 
 ## Author Sheba Nkinzi
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
