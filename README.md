@@ -1,4 +1,3 @@
-
 #  Heart Disease Prediction using Machine Learning
 
 ## Project Overview
